@@ -19,10 +19,38 @@ List of known issues/bugs
 
 List of features that are on the roadmap bu haven't been implemented yet.
 
-A list of all external sources.
+## TODO:
+
+* Display a list of single values, horizontally as a bar chart
+  * Numerical values should also be displayed inside of the bar
+  * The position of values should be customizable too:
+    * Top, centre or bottom of the bar.
+
+* Bar sizes should be dependent on the data that gets passed in
+  * Bar width should be dependent on the total amount of values passed.
+  * Bar height should be dependent on the values of the data.
+
+* Bar properties that should be customizable:
+  * Bar Colour
+  * Label Colour
+  * Bar spacing (space between bars)
+  * Bar Chart axes
+
+* X-axis should show labels for each data value
+  * Think about how you would need to structure your data to associate a label to each value
+
+* Y-axis should show ticks at certain values
+  * Think about where you would configure these values. Should they be part of the data or the options to the bar chart function.
+
+* The title of the bar chart should be able to be set and shown dynamically
+
+* The title of the bar chart should also be customizable:
+
+  * Font Size
+  * Font Colour
+
 
 ## Sources
-===================
 
 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
