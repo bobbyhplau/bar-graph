@@ -1,5 +1,9 @@
-&& ABOUT
-=========
+Bar Chart Stretch Project
+==================
+
+
+
+About
 
 Give some context to what your project is for.
 
@@ -17,5 +21,6 @@ List of features that are on the roadmap bu haven't been implemented yet.
 
 A list of all external sources.
 
+[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
 
