@@ -67,4 +67,4 @@ Allow the user to pass multiple values for each bar.
 
 [W3Schools Online Web Tutorial](https://www.w3schools.com/)
 
-[jQuery Tutorial #1 - jQuery Tutorial for Beginners](https://www.youtube.com/watch?v=hMxGhHNOkCU)
+[JQuery tutorial 2 - external javascript file](https://www.youtube.com/watch?v=ITnrXp9WK2Q)
