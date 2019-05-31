@@ -49,6 +49,15 @@ List of features that are on the roadmap bu haven't been implemented yet.
   * Font Size
   * Font Colour
 
+## Extra
+
+* Multiple Value (Stacked) bar charts
+Allow the user to pass multiple values for each bar.
+  * Think about how you would need to structure this data compared to a single bar chart.
+
+* This should also support all the features of the single bar chart, including
+  * Customizable bar colours, per value
+  * Customizable label colours
 
 ## Sources
 
@@ -56,3 +65,6 @@ List of features that are on the roadmap bu haven't been implemented yet.
 
 [Hello, World](https://javascript.info/hello-world)
 
+[W3Schools Online Web Tutorial](https://www.w3schools.com/)
+
+[jQuery Tutorial #1 - jQuery Tutorial for Beginners](https://www.youtube.com/watch?v=hMxGhHNOkCU)

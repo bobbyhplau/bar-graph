@@ -1,5 +1,5 @@
 function drawBarChart(data, options, element) {
 
-  alert("Hello World");
+  document.write("Hi there");
 }
 
